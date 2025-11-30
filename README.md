@@ -91,6 +91,6 @@ Bugging Bad
 Клементьева Виктория (Data Analyst)  
 Климентенко Сергей (Data Scientist)  
 Павленко Ульяна (Backend)  
-Сафин Роман (Data Analyst)
+Сафин Роман (Backend)
 
 Альфа-Банк Hack&Change 2025
